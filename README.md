@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi 👋, I'm Dani
+
+- Pronouns: She/ Her
+- BSc Computer Science First Class Honours at Bangor University. 
+- Fluent in Python, C# and PHP web development.
+- Mainly focused on Unity C#.
 
 <!--
-**DaniellaJPotts/daniellajpotts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DaniellaJPotts/DaniellaJPotts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
